@@ -4,4 +4,6 @@ florinpop17 App Ideas Collection - [Link for details](https://github.com/florinp
 
 Android Applications by commandiron
 
+Tier-1: Beginner Projects
+
 1 - Binary to decimal converter (Kotlin)
